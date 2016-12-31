@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compass Project</string>
+    <string name="button_coordinates">Enter coordinates</string>
+    <string name="button_latitude">Latitude</string>
+    <string name="button_longitude">Longitude</string>
+    <string name="dialog_title">Enter coordinates:</string>
+    <string name="hint">i.e. 10.1234</string>
+
+
+</resources>
